@@ -37,6 +37,9 @@
  - [官网下载](https://https://github.com/yichengchen/clashX/releases)
  - [备用下载](https://d2.netfiles.pw/v2/macos/ClashX-Pro-v1.70.0.2.dmg)
 
+### **基于“chromium”内核的浏览器插件翻墙**
+- xxx
+
 ## 开热点软件
 - 安卓端**v2RayNG**和**Tinyproxy**本身就可以开热点
 - 安卓端**Clash**开热点需要结合**Every Proxy**，[下载链接](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/every%20proxy.apk)（建议在翻墙状态下打开）
