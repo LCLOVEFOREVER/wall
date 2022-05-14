@@ -52,3 +52,14 @@
 
 - [软件使用方法](https://root-crown-817.notion.site/70a2b521fdb74751a30c86faf664fe44)
 - [机场、节点池](https://root-crown-817.notion.site/c69e47537e984c0dbb6baaf6b65ca73f)
+
+---
+
+## 个人网站
+
+- [个人主页](https://wangcy.tk)🤔
+- [个人博客](https://blog.wangcy.tk)💬
+- [宜春学院导航起始页](https://ycu.wangcy.cf)🔎
+- [自制起始页](http://search.wangcy.cf)🤯
+- [捐助](https://donate.wangcy.tk/)🤑
+- [壁纸收藏](https://wangcy.tk/Wallpaper/index.html)
