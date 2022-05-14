@@ -8,24 +8,30 @@
 ### 1⃣️**Windows** 🖥
 
 - ✅**Clash For Windows**
+
   - [官网下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
   - [备用下载](https://d3.netfiles.pw/v2/windows/Clash.for.Windows.Setup.0.19.15.exe)
 - ✅**v2RayN**
+
   - [官网下载](https://github.com/2dust/v2rayN/releases)
   - [备用下载](https://d2.netfiles.pw/v2/windows/v2rayN-v5.9.zip)
 - ✅**Netch**
+
   - [官网下载](https://github.com/NetchX/Netch/releases)
   - [备用下载](https://d2.netfiles.pw/v2/windows/Netch-v1.9.2.7z)
 
 ### 2⃣️**Android 安卓** 📲
 
 - ✅**Clash For  Android**
+
   - [官网下载](https://github.com/Kr328/ClashForAndroid/releases)
   - [备用下载](https://d3.netfiles.pw/v2/android/ClashForAndroid-v2.5.4.apk)
 - ✅**v2RayNG**
+
   - [官网下载](https://github.com/2dust/v2rayNG/releases)
   - [备用下载](https://d3.netfiles.pw/v2/android/v2rayNG-v1.7.3.apk)
 - ✅**TinyProxy**
+
   - [下载链接](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/TinyProxy.apk)
 
 ### 3⃣️**IOS 苹果** 📱
@@ -37,6 +43,7 @@
 ### 4⃣️**Mac OS 苹果电脑** 👩‍💻
 
 - ✅**ClashX**
+
   - [官网下载](https://https://github.com/yichengchen/clashX/releases)
   - [备用下载](https://d2.netfiles.pw/v2/macos/ClashX-Pro-v1.70.0.2.dmg)
 
