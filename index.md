@@ -14,7 +14,7 @@
 - **Netch**
   - [官网下载](https://github.com/NetchX/Netch/releases)
   - [备用下载](https://d2.netfiles.pw/v2/windows/Netch-v1.9.2.7z)
----
+
 ### **Android 安卓**
 
 - **Clash For  Android**
@@ -25,7 +25,7 @@
   - [备用下载](https://d3.netfiles.pw/v2/android/v2rayNG-v1.7.3.apk)
 - **TinyProxy**
   - [下载链接](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/TinyProxy.apk)
----
+
 ### **IOS 苹果**
 
 由于苹果的软件必须在**App Store**下载，且必须是非大陆**Apple ID**，所以此处无法提供既有的下载链接，如果有需要可以创建或者自行购买非大陆Apple ID，还有其他问题，可以[和我联系](mailto:1745470052@qq.com)
@@ -35,10 +35,10 @@
 - **ClashX**
   - [官网下载](https://https://github.com/yichengchen/clashX/releases)
   - [备用下载](https://d2.netfiles.pw/v2/macos/ClashX-Pro-v1.70.0.2.dmg)
----
+
 ### **基于“chromium”内核的浏览器插件翻墙**
 - xxx
----
+
 ## 开热点软件
 - 安卓端**v2RayNG**和**Tinyproxy**本身就可以开热点
 - 安卓端**Clash**开热点需要结合**Every Proxy**，[下载链接](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/every%20proxy.apk)（建议在翻墙状态下打开）
