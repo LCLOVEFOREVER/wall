@@ -71,10 +71,10 @@
 
 ---
 
-## 使用文档 📜
+## 其他 📜
 
-- [软件使用方法](https://root-crown-817.notion.site/70a2b521fdb74751a30c86faf664fe44)
-- [机场、节点池](https://root-crown-817.notion.site/c69e47537e984c0dbb6baaf6b65ca73f)
+- [机场推荐](https://root-crown-817.notion.site/c69e47537e984c0dbb6baaf6b65ca73f)
+- [订阅转换](https://root-crown-817.notion.site/032d63bbb30a4c6f87950c3823b3ce1c)
 
 ---
 
