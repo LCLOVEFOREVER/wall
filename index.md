@@ -56,6 +56,7 @@
 ### 5⃣️**基于“chromium”内核的浏览器插件翻墙** 💾
 
 - **VPN Proxy VeePN**
+
   - [直接下载](https://github.com/wchenyi/wall/raw/gh-pages/Win/VPN%20Proxy%20VeePN.zip)
 
 > 需要在已经翻墙的环境下
