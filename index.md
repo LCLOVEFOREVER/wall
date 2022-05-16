@@ -86,4 +86,4 @@
 - [宜春学院导航起始页](https://ycu.wangcy.cf)🔎
 - [自制起始页](http://search.wangcy.cf)🤯
 - [捐助](https://donate.wangcy.tk/)🤑
-- [壁纸收藏](https://wangcy.tk/Wallpaper/index.html)
+- [壁纸收藏](https://wangcy.tk/Wallpaper/index.html)🏞
