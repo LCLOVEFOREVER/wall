@@ -28,17 +28,18 @@
 
 ### 3⃣️**IOS 苹果** 📱
 
-- **Shadowrocket**
-  - [App Store直达](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)
-- **Stash**
-  - [App Store直达](https://apps.apple.com/us/app/stash/id1596063349?l=zh)
-- **特别提醒**
+| 软件 | App Store直达 
+| --- | :---: 
+|✅Shadowrocket|[链接直达](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)
+|✅Sash|[链接直达](https://apps.apple.com/us/app/stash/id1596063349?l=zh)
 
-> 1、大陆地区的Apple ID无法找到此软件，需要在[ID管理界面](https://appleid.apple.com/#!&page=signin)切换成成港区、美区等；地址信息可以参考[美国地址生成器](https://mp.weixin.qq.com/s/vLXUSlLgiddAmNbcQk0tAg),或者自行寻找真实的非大陆国家、地区地址。
+> **特别提醒**
+
+- 1、大陆地区的Apple ID无法找到此软件，需要在[ID管理界面](https://appleid.apple.com/#!&page=signin)切换成成港区、美区等；地址信息可以参考[美国地址生成器](https://mp.weixin.qq.com/s/vLXUSlLgiddAmNbcQk0tAg),或者自行寻找真实的非大陆国家、地区地址。
   
-> 2.、软件本身需要购买，可以在某宝购买礼品卡或者兑换卡获得港币或者美元等、或者在一些网上商店购买兑换码（一次性）例如[美区商店](https://ioskaka.com)。
+- 2、软件本身需要购买，可以在某宝购买礼品卡或者兑换卡获得港币或者美元等、或者在一些网上商店购买兑换码（一次性）例如[美区商店](https://ioskaka.com)。
 
-> 3、本站只是推荐，您在消费中等任何问题和本站无关；如有疑问，可以[和我联系](mailto:1745470052@qq.com)，或者[致电](tel:17605786596)
+- 3、本站只是推荐，您在消费中等任何问题和本站无关；如有疑问，可以[和我联系](mailto:1745470052@qq.com)，或者[致电](tel:17605786596)
 
 ### 4⃣️**Mac OS 苹果电脑** 👩‍💻
 
