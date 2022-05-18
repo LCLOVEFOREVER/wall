@@ -30,6 +30,19 @@
   - [官网下载](https://github.com/2dust/v2rayNG/releases)
   - [备用下载](https://d3.netfiles.pw/v2/android/v2rayNG-v1.7.3.apk)
   
+- ✅**SurfBoard**
+  - [官网下载 APK Pure](https://apkpure.com/surfboard/com.getsurfboard)
+  - [谷歌商店](https://play.google.com/store/apps/details?id=com.getsurfboard&hl=zh_CN)
+
+- ✅**Kitsunebi**
+  - [官网下载 APK Pure](https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android)
+  - [谷歌商店](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=zh_CN)
+  
+- ✅**BifrostV**
+  - [官网下载 APK Pure](https://apkpure.com/cn/bifrostv/com.github.dawndiy.bifrostv)
+  - [谷歌商店](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)
+  - [备用下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/BifrostV.apk)
+  
 - ✅**TinyProxy**
   - [下载链接](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/TinyProxy.apk)
 
@@ -53,7 +66,15 @@
   - [官网下载](https://https://github.com/yichengchen/clashX/releases)
   - [备用下载](https://d2.netfiles.pw/v2/macos/ClashX-Pro-v1.70.0.2.dmg)
 
-### 5⃣️**基于“chromium”内核的浏览器插件翻墙** 💾
+### 5⃣️**Linux 系统** 🐧
+
+- ✅**Qv2ray**
+  - [官网下载](https://github.com/Qv2ray/Qv2ray)
+
+- ✅**Mellow**
+  - [官网下载](https://github.com/mellow-io/mellow)
+
+### 6⃣️**基于“chromium”内核的浏览器插件翻墙** 💾
 
 - **VPN Proxy VeePN**
 
