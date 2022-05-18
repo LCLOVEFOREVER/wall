@@ -19,12 +19,12 @@
 
 | 软件 | 官网下载 | 备用下载 | 谷歌商店 | 备注 |
 | --- |    :----:   |  :---: |  :---: | :--- |
-|✅Clash For  Android|[下载](https://github.com/Kr328/ClashForAndroid/releases)|[下载](https://d3.netfiles.pw/v2/android/ClashForAndroid-v2.5.4.apk)| |推荐，功能强大
-|✅v2RayNG|[下载](https://github.com/2dust/v2rayNG/releases)|[下载](https://d3.netfiles.pw/v2/android/v2rayNG-v1.7.3.apk)|
+|✅Clash For  Android|[下载](https://github.com/Kr328/ClashForAndroid/releases)|[下载](https://d3.netfiles.pw/v2/android/ClashForAndroid-v2.5.4.apk)| |推荐⭐速度快，资源占用低；但高阶操作需配置代码，不可单独开热点
+|✅v2RayNG|[下载](https://github.com/2dust/v2rayNG/releases)|[下载](https://d3.netfiles.pw/v2/android/v2rayNG-v1.7.3.apk)| |推荐⭐，功能强大，自定义简单无需代码，可单独开热点
 |✅SurfBoard|[下载](https://apkpure.com/surfboard/com.getsurfboard)| |[下载](https://play.google.com/store/apps/details?id=com.getsurfboard&hl=zh_CN)
 |✅Kitsunebi|[下载](https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android)| |[下载](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=zh_CN)
 |✅BifrostV|[下载](https://apkpure.com/cn/bifrostv/com.github.dawndiy.bifrostv)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/BifrostV.apk)|[下载](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)
-|✅Tinyproxy| |[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/TinyProxy.apk)|
+|✅Tinyproxy| |[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/TinyProxy.apk)| |需代码，可单独开热点
 
 ### 3⃣️**IOS 苹果** 📱
 
