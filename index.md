@@ -8,43 +8,23 @@
 
 ### 1⃣️**Windows** 🖥
 
-- ✅**Clash For Windows**
-  - [官网下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
-  - [备用下载](https://d3.netfiles.pw/v2/windows/Clash.for.Windows.Setup.0.19.15.exe)
-  
-- ✅**v2RayN**
-  - [官网下载](https://github.com/2dust/v2rayN/releases)
-  - [备用下载](https://d2.netfiles.pw/v2/windows/v2rayN-v5.9.zip)
-  
-- ✅**Netch**
-  - [官网下载](https://github.com/NetchX/Netch/releases)
-  - [备用下载](https://d2.netfiles.pw/v2/windows/Netch-v1.9.2.7z)
+| 软件 | 官网下载 | 备用下载 | 备注 |
+| ----------------- | :-----------:|:-----------: |:-----------|
+|✅Clash For Windows| [下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)|[下载](https://d3.netfiles.pw/v2/windows/Clash.for.Windows.Setup.0.19.15.exe)|推荐⭐ 绕开封锁界面美观，但占用空间较大
+|✅v2RayN|[下载](https://github.com/2dust/v2rayN/releases)|[下载](https://d2.netfiles.pw/v2/windows/v2rayN-v5.9.zip)|推荐⭐ 界面人性化，不需要写配置，空间占用小
+|✅SakuraCat|[下载](https://download.sakura-cat.club/directlink/1/SakuraCat.exe)| |需要SakuraCat账号，且只能用其订阅
+|✅Netch|[下载](https://github.com/NetchX/Netch/releases) |[下载](https://d2.netfiles.pw/v2/windows/Netch-v1.9.2.7z)|全局代理
 
 ### 2⃣️**Android 安卓** 📲
 
-- ✅**Clash For  Android**
-  - [官网下载](https://github.com/Kr328/ClashForAndroid/releases)
-  - [备用下载](https://d3.netfiles.pw/v2/android/ClashForAndroid-v2.5.4.apk)
-  
-- ✅**v2RayNG**
-  - [官网下载](https://github.com/2dust/v2rayNG/releases)
-  - [备用下载](https://d3.netfiles.pw/v2/android/v2rayNG-v1.7.3.apk)
-  
-- ✅**SurfBoard**
-  - [官网下载 APK Pure](https://apkpure.com/surfboard/com.getsurfboard)
-  - [谷歌商店](https://play.google.com/store/apps/details?id=com.getsurfboard&hl=zh_CN)
-
-- ✅**Kitsunebi**
-  - [官网下载 APK Pure](https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android)
-  - [谷歌商店](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=zh_CN)
-  
-- ✅**BifrostV**
-  - [官网下载 APK Pure](https://apkpure.com/cn/bifrostv/com.github.dawndiy.bifrostv)
-  - [谷歌商店](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)
-  - [备用下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/BifrostV.apk)
-  
-- ✅**TinyProxy**
-  - [下载链接](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/TinyProxy.apk)
+| 软件 | 官网下载 | 备用下载 | 谷歌商店 | 备注 |
+| --- |    :----:   |  :---: |  :---: | :--- |
+|✅Clash For  Android|[下载](https://github.com/Kr328/ClashForAndroid/releases)|[下载](https://d3.netfiles.pw/v2/android/ClashForAndroid-v2.5.4.apk)| |推荐，功能强大
+|✅v2RayNG|[下载](https://github.com/2dust/v2rayNG/releases)|[下载](https://d3.netfiles.pw/v2/android/v2rayNG-v1.7.3.apk)|
+|✅SurfBoard|[下载](https://apkpure.com/surfboard/com.getsurfboard)| |[下载](https://play.google.com/store/apps/details?id=com.getsurfboard&hl=zh_CN)
+|✅Kitsunebi|[下载](https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android)| |[下载](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=zh_CN)
+|✅BifrostV|[下载](https://apkpure.com/cn/bifrostv/com.github.dawndiy.bifrostv)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/BifrostV.apk)|[下载](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)
+|✅Tinyproxy| |[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/TinyProxy.apk)|
 
 ### 3⃣️**IOS 苹果** 📱
 
