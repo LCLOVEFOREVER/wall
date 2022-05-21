@@ -25,6 +25,7 @@
 |✅SurfBoard|[下载](https://apkpure.com/surfboard/com.getsurfboard)| |[下载](https://play.google.com/store/apps/details?id=com.getsurfboard&hl=zh_CN)|⭐资源占用较低（参考值：46.01MB）<br>高阶操作无需代码，可单独开热点
 |✅Kitsunebi|[下载](https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android)| |[下载](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=zh_CN)
 |✅BifrostV|[下载](https://apkpure.com/cn/bifrostv/com.github.dawndiy.bifrostv)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/BifrostV.apk)|[下载](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)
+|✅Sakuracat|[下载](https://download.sakura-cat.club/directlink/1/SakuraCat-4.1.6-China.apk)| | |需要SakuraCat账号，且只能用其订阅
 |✅Tinyproxy| |[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/TinyProxy.apk)| |需代码，可单独开热点
 
 ### 3⃣️**IOS 苹果** 📱
