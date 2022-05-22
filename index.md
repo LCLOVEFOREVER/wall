@@ -32,7 +32,7 @@
 ### 3⃣️**IOS 苹果** 📱
 
 | 软件 | App Store直达 | 备注
-| --- | :---: | :---
+| --- | :---: | :--- 
 |✅Shadowrocket|[链接直达](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)|⭐老牌软件，自定义程度高，可单独开热点
 |✅Stash|[链接直达](https://apps.apple.com/us/app/stash/id1596063349?l=zh)|⭐新兴软件，界面美观，可自定义图标，可单独开热点
 
@@ -46,33 +46,22 @@
 
 ### 4⃣️**Mac OS 苹果电脑** 👩‍💻
 
-- ✅**ClashX**
-  - [官网下载](https://https://github.com/yichengchen/clashX/releases)
-  - [备用下载](https://d2.netfiles.pw/v2/macos/ClashX-Pro-v1.70.0.2.dmg)
+|✅ClashX|[官网下载](https://https://github.com/yichengchen/clashX/releases)|[备用下载](https://d2.netfiles.pw/v2/macos/ClashX-Pro-v1.70.0.2.dmg)
+| --- |    :----:   |  :---: 
 
 ### 5⃣️**Linux 系统** 🐧
 
-- ✅**Qv2ray**
-  - [官网下载](https://github.com/Qv2ray/Qv2ray)
-
-- ✅**Mellow**
-  - [官网下载](https://github.com/mellow-io/mellow)
+|✅Qv2ray|[官网下载](https://github.com/Qv2ray/Qv2ray)
+| --- | :---: 
+|✅**Mellow**|**[官网下载](https://github.com/mellow-io/mellow)**
 
 ### 6⃣️**基于“chromium”内核的浏览器插件翻墙** 💾
 
-- **VPN Proxy VeePN**
-
-  - [直接下载](https://github.com/wchenyi/wall/raw/gh-pages/Win/VPN%20Proxy%20VeePN.zip)
-
-> 需要在已经翻墙的环境下
-
-  - [Chrome网上应用店](https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno?hl=zh-CN&utm_source=chrome-ntp-launcher)
-
-> 需要在已经翻墙的环境下，且在Chrome浏览器打开
-
-  - [Edge外接程序](https://microsoftedge.microsoft.com/addons/detail/free-vpn-for-edge-vpn-p/panammoooggmlehahpcjckcncfeffcoi?hl=zh-CN)
-
-> 无需在翻墙环境下，但需要在Edge浏览器打开
+|VPN Proxy VeePN|备注
+| :--- | :--- 
+|✅[直接下载](https://github.com/wchenyi/wall/raw/gh-pages/Win/VPN%20Proxy%20VeePN.zip)|需要在已经翻墙的环境下
+|✅[Chrome网上应用店](https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno?hl=zh-CN&utm_source=chrome-ntp-launcher)|需要在已经翻墙的环境下，且在Chrome浏览器打开
+|✅[Edge外接程序](https://microsoftedge.microsoft.com/addons/detail/free-vpn-for-edge-vpn-p/panammoooggmlehahpcjckcncfeffcoi?hl=zh-CN)|无需在翻墙环境下，但需要在Edge浏览器打开
 
 ---
 
