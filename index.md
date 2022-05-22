@@ -20,7 +20,7 @@
 ### 2⃣️**Android 安卓** 📲
 
 | 软件 | 官网下载 | 备用下载 | 谷歌商店 | 备注 |
-| --- |    :----:   |  :---: |  :---: | :--- |
+| --- |  :----: |  :---:  |  :---:  | :--- |
 |✅Clash For  Android|[下载](https://github.com/Kr328/ClashForAndroid/releases)|[下载](https://d3.netfiles.pw/v2/android/ClashForAndroid-v2.5.4.apk)| |⭐资源占用较低（参考值：27.58MB）<br>但高阶操作需配置代码，不可单独开热点
 |✅v2RayNG|[下载](https://github.com/2dust/v2rayNG/releases)|[下载](https://d3.netfiles.pw/v2/android/v2rayNG-v1.7.3.apk)| |⭐资源占用较高（参考值：60.23MB）<br>高阶操作无需代码，可单独开热点（鸿蒙系统可能有Bug）
 |✅SurfBoard|[下载](https://apkpure.com/surfboard/com.getsurfboard)| |[下载](https://play.google.com/store/apps/details?id=com.getsurfboard&hl=zh_CN)|⭐资源占用较低（参考值：46.01MB）<br>高阶操作无需代码，可单独开热点
