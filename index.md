@@ -85,9 +85,13 @@
 ---
 
 ## 其他 📜
+> 请在尽量在已经翻墙的前提下打开
 
 - [机场推荐](https://root-crown-817.notion.site/c69e47537e984c0dbb6baaf6b65ca73f)
-- [订阅转换](https://root-crown-817.notion.site/032d63bbb30a4c6f87950c3823b3ce1c)
+- [免流-混淆订阅转换](https://zhuan.mlsao.xyz)
+- [节点池](https://www.mattkaydiary.com/2021/02/5-free-subscribe-generator-tools-2021-site.html?m=1)
+- [节点池订阅转换](https://ednovas.xyz/2021/01/15/freeproxies/#EdNovas的节点池)
+- [安卓抓包](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/HttpCanary_%E2%80%94_HTTP_Sniffer_Capture_Analysis_v3_3_5_apkpure_com.apk)
 
 ---
 
