@@ -31,7 +31,7 @@
 
 | 软件 | 官网 | 备用 | 谷歌商店 | 备注 |
 | --- |  :----: |  :---:  |  :---:  | :--- |
-|Shadowrocket| | |[下载](https://play.google.com/store/apps/details?id=com.v2cross.proxy)|资源占用较高参考值（98.24MB）<br>自带免费节点，可单独开热点，，可单独用混淆
+|Shadowrocket| | |[下载](https://play.google.com/store/apps/details?id=com.v2cross.proxy)|资源占用较高（参考值：98.24MB）<br>自带免费节点，可单独开热点，，可单独用混淆
 |Kitsunebi|[下载](https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android)| |[下载](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=zh_CN)
 |BifrostV|[下载](https://apkpure.com/cn/bifrostv/com.github.dawndiy.bifrostv)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/BifrostV.apk)|[下载](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)
 |Sakuracat|[下载](https://download.sakura-cat.club/directlink/1/SakuraCat-4.1.6-China.apk)| | |需要SakuraCat账号，且只能用其订阅，不可用混淆
