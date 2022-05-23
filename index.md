@@ -24,10 +24,12 @@
 |✅Clash For  Android|[下载](https://github.com/Kr328/ClashForAndroid/releases)|[下载](https://d3.netfiles.pw/v2/android/ClashForAndroid-v2.5.4.apk)| |⭐资源占用较低（参考值：27.58MB）<br>但高阶操作需配置代码，不可单独开热点
 |✅v2RayNG|[下载](https://github.com/2dust/v2rayNG/releases)|[下载](https://d3.netfiles.pw/v2/android/v2rayNG-v1.7.3.apk)| |⭐资源占用较高（参考值：60.23MB）<br>高阶操作无需代码，可单独开热点（鸿蒙系统可能有Bug）
 |✅SurfBoard|[下载](https://apkpure.com/surfboard/com.getsurfboard)| |[下载](https://play.google.com/store/apps/details?id=com.getsurfboard&hl=zh_CN)|⭐资源占用较低（参考值：46.01MB）<br>高阶操作无需代码，可单独开热点
+|✅Shadowrocket| | |[下载](https://play.google.com/store/apps/details?id=com.v2cross.proxy)|资源占用较高参考值（98.24MB）<br>自带免费节点，可单独开热点
 |✅Kitsunebi|[下载](https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android)| |[下载](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=zh_CN)
 |✅BifrostV|[下载](https://apkpure.com/cn/bifrostv/com.github.dawndiy.bifrostv)|[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/BifrostV.apk)|[下载](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)
 |✅Sakuracat|[下载](https://download.sakura-cat.club/directlink/1/SakuraCat-4.1.6-China.apk)| | |需要SakuraCat账号，且只能用其订阅
 |✅Tinyproxy| |[下载](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/TinyProxy.apk)| |需代码，可单独开热点
+
 
 ### 3⃣️**IOS 苹果** 📱
 
@@ -69,7 +71,9 @@
 
 - 安卓端**v2RayNG**和**Tinyproxy**本身就可以开热点
 - 安卓端**Clash**开热点需要结合**Every Proxy**，[下载链接](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/every%20proxy.apk)（建议在翻墙状态下打开）
+或者[手机代理服务器](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/%E6%89%8B%E6%9C%BA%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8.apk)
 - 苹果端已知的Stash和Shadowrocket（统称小火箭），是可以直接开热点的。
+
 
 ---
 
