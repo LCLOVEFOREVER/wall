@@ -42,7 +42,7 @@
 
 | 软件 | App Store直达 | 备注
 | --- | :---: | :--- 
-|✅Shadowrocket|[链接直达](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)|⭐老牌软件，自定义程度高，可单独开热点
+|✅Shadowrocket|[链接直达](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)|⭐老牌软件，自定义程度高，可单独开热点，可单独免流
 |✅Stash|[链接直达](https://apps.apple.com/us/app/stash/id1596063349?l=zh)|⭐新兴软件，界面美观，可自定义图标，可单独开热点
 
 > **特别提醒**
