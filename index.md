@@ -101,6 +101,7 @@
 - [节点池](https://www.mattkaydiary.com/2021/02/5-free-subscribe-generator-tools-2021-site.html?m=1)
 - [节点池订阅转换](https://ednovas.xyz/2021/01/15/freeproxies/#EdNovas的节点池)
 - [安卓抓包](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/HttpCanary_%E2%80%94_HTTP_Sniffer_Capture_Analysis_v3_3_5_apkpure_com.apk)
+- [电信百度直连](https://github.com/wchenyi/wall/raw/gh-pages/%E5%AE%89%E5%8D%93/%E7%94%B5%E4%BF%A1%E7%99%BE%E5%BA%A6%E7%9B%B4%E8%BF%9E%E5%BD%A6%E7%A5%96%E5%B0%8F%E7%99%BD%E7%89%881.1.apk)
 
 ---
 
